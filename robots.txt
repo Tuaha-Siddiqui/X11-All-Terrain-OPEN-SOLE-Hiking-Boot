@@ -16,4 +16,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://sites.google.com/view/x11-all-terrain-open-sole-hike/sitemap.xml
+Sitemap: https://tuaha-siddiqui.github.io/X11-All-Terrain-OPEN-SOLE-Hiking-Boot/sitemap.xml
